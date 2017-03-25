@@ -16,6 +16,7 @@ public class BouncingRectangle extends BouncingFigure {
 		this.height=height;
 		this.width=width;
 	}
+	
 
 	public void draw(Graphics g) {
 		// TODO Auto-generated method stub
@@ -51,3 +52,4 @@ public class BouncingRectangle extends BouncingFigure {
 		return false;
 	}
 }
+
